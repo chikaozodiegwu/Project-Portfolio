@@ -38,7 +38,7 @@ For this project, i designed tables to hold data in the CSVs, imported the CSVs 
 
 # ETL 
 
-[Github] (https://github.com/chikaozodiegwu/Project-Portfolio/blob/main/Notebooks/ETL%20Project.ipynb)
+[Github](https://github.com/chikaozodiegwu/Project-Portfolio/blob/main/Notebooks/ETL%20Project.ipynb)
 
 For this project, i utilized data from Kaggle on inpatient and outpatient fraud in the US. The data itself was created for machine learning. I focused on using the "Train" dataset. I imported all dependencies from the libraries, imported the CSV files, merged CSVs and connected the notebook to a local database using an engine, queried the databased from the notebook and performed various analysis. 
 
