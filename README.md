@@ -2,7 +2,7 @@
 This portfolio is a compilation of notebooks and projects that i created for data analysis and visualization.
 
 # Excel
-Github Link 
+Github Link\
 This Microsoft Excel project was completed as part of my bootcamp homework. To uncover some market trends, I modified and analyzed the data of 4,000 kickstarter projects. I used several functions including conditional formatting, COUNTIFS, IFERROR, LEFT/RIGHT/MID and LEN. I also created pivot tables and pivot charts to visualized my analysis. 
 
 # Python
