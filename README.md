@@ -16,6 +16,7 @@ For this Python project, i created a Python script for analyzing the financial r
 # Pandas 
 
 [GitHub](https://github.com/chikaozodiegwu/Project-Portfolio/blob/main/Notebooks/Pandas_HeroesOfPymoli.ipynb)
+
 For this project, i analyzed a fantasy game called Heroes of Pymoli. I used Jupyter Notebook to conduct this analysis. I imported all the dependencies needed from the Pandas Library, imported the CSV file that i used, cleaned the data and conducted various analysis. 
 
 # Matplotlib 
